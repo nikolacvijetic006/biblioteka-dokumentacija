@@ -11,3 +11,4 @@ Bibliotekar vodi računa o pozajmicamaknjiga i povratu istih.
 - Član biblioteke može pristupati popisu svojih pozajmica
 - Bibliotekar može evidentirati pozajmice i povrat knjiga
 - Član biblioteke može rezervisati knjigu koja trenutno nije dostupna
+- Član može da produži pozajmicu na 14 dana
