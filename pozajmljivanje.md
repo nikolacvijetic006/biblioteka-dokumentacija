@@ -1,0 +1,4 @@
+- član ulazi u biblioteku
+- član bira knjigu koju želi
+- bibliotekar evidentira pozajmicu
+- član ima rok 21 dan da vrati knjigu
